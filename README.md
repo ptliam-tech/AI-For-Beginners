@@ -146,7 +146,7 @@ Follow these steps:
 
 Fork the Repository: Click on the "Fork" button at the top-right corner of this page.
 
-Clone the Repository: `git clone https://github.com/microsoft/AI-For-Beginners.git`
+Clone the Repository: `git clone https://github.com/ptliam-tech/AI-For-Beginners.git`
 
 Don't forget to star (🌟) this repo to find it easier later.
 
