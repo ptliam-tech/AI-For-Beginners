@@ -34,14 +34,14 @@ Explore the world of **Artificial Intelligence** (AI) with our 12-week, 24-lesso
 >
 > **Bash / macOS / Linux:**
 > ```bash
-> git clone --filter=blob:none --sparse https://github.com/microsoft/AI-For-Beginners.git
+> git clone --filter=blob:none --sparse https://github.com/ptliam-tech/AI-For-Beginners.git
 > cd AI-For-Beginners
 > git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
 > ```
 >
 > **CMD (Windows):**
 > ```cmd
-> git clone --filter=blob:none --sparse https://github.com/microsoft/AI-For-Beginners.git
+> git clone --filter=blob:none --sparse https://github.com/ptliam-tech/AI-For-Beginners.git
 > cd AI-For-Beginners
 > git sparse-checkout set --no-cone "/*" "!translations" "!translated_images"
 > ```
